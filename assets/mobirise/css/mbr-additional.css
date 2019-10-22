@@ -1822,6 +1822,10 @@ body {
 }
 .cid-rxUSAZyM9b .card-img span {
   font-size: 72px;
+  color: rgb(255, 51, 102);
+  transition: all 0.2s;
+}
+.cid-rxUSAZyM9b .card-img span:hover {
   color: #707070;
 }
 .cid-rxUSAZyM9b P {
