@@ -1775,6 +1775,19 @@ body {
 .cid-r3fIK7IfjB .dropdown-item:hover {
   color: #ff3366 !important;
 }
+@media only screen and (max-width: 1000px) {
+  .cid-rFs4eBIrkj {
+    background-position: 80%;
+  }
+
+  .cid-rFs4eBIrkj .ola-wolny-image span {
+    color: white;
+  }
+
+  .cid-rFs4eBIrkj .title-description {
+    color: #e0e0e0;
+  }
+}
 .cid-rFs4eBIrkj {
   background-image: url("../../../assets/images/aww-2000x1125.jpg");
 }
