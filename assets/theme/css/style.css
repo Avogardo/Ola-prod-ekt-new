@@ -326,6 +326,10 @@ nav .mbr-section-btn {
   -webkit-transform: rotate(-90deg);
   transform: rotate(-90deg); }
 
+  .display-4.go-home-button {
+    font-family: 'Playfair Display', serif;
+  }
+
 /*! Arrow Down */
 .mbr-arrow {
   position: absolute;
